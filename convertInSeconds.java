@@ -21,6 +21,9 @@ public class Exercicio4 {
     System.out.printf("\n.::Fim da Execução::.");
     in.close();
   }
+  /*
+   * Method return the actual time(hours,minuts and seconds) in seconds.
+   */
   public static int convertInSeconds(int n1,int n2, int n3){
     return ((n1 * 60) + (n2 * 60) + n3);
   }
