@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Exercicio4 {
+public class convertInSeconds {
   /**
    * 4. Crie um programa que lê o tempo atual em hora, minuto e segundo, e o escreve em segundos 
    * quanto tempo se passou desde que o dia começou. Essa conversão deve ser calculada por um 
